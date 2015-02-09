@@ -12,4 +12,7 @@ package com.prueba;
 public class Prueba {
     private String nombre;
     private String apellido;
+    private int cedula;
+    private boolean clientePremium;
+    private int edad;
 }
