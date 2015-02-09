@@ -11,4 +11,5 @@ package com.prueba;
  */
 public class Prueba {
     private String nombre;
+    private String apellido;
 }
