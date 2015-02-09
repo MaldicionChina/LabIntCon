@@ -10,5 +10,5 @@ package com.prueba;
  * @author alexis
  */
 public class Prueba {
-    
+    private String nombre;
 }
